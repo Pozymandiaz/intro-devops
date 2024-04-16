@@ -1,5 +1,5 @@
-# test_utils.py
-from utils import calculate_average
+# test_calculator.py
+from calculator import calculate_average
 
 def test_calculate_average():
     assert calculate_average([1, 2, 3, 4, 5]) == 3.0

@@ -1,4 +1,4 @@
-# utils.py
+# calculator.py
 def calculate_average(numbers):
     if not numbers:
         return 0
